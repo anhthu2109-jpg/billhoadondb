@@ -35,7 +35,7 @@ except Exception:
     DB_USER = "avnadmin" # sửa lại user
     DB_PASSWORD = "AVNS_KO5XwLUd22vzEvBne42" # sửa lại password
     DB_HOST = "mysql-1cc70107-anhthutran21092005-5a1e.h.aivencloud.com" # sửa lại host
-    DB_PORT = 12023 # sửa lại port
+    DB_PORT = 12023  # sửa lại port
     DB_NAME = "defaultdb"
 
 # ------------------------------------------------------------------
